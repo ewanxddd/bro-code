@@ -1,3 +1,3 @@
 
 name = input("Enter a name: ")
-print name 
+print(name) 
